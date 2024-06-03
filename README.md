@@ -16,7 +16,7 @@ vsf_port_scanner() - A simple and fast port scanner
 vsf_virus_creator() - Create a simple Virus (Not strong)
 
 
-Example:
+# Example:
 
 from vsf.main import *
 
